@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SergioTEC / Sérgio de Oliveira Júnior
+- 👀 I’m interested in android development
+- 🌱 I’m currently learning Kotlin: First Steps and Object Orientation and in the next step Kotlin: Inheritance, Polymorphism and Interface
+- 📫 How to reach me: Find me and send me a message on LinkedIn: https://www.linkedin.com/in/s%C3%A9rgio-de-oliveira-j%C3%BAnior-4a4113175/
