@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SergioTEC / Sérgio de Oliveira Júnior
-- 👀 I’m interested in Android development
+- 👀 I’m interested in Web development and Android development
 - 🌱 I’m currently learning: Kotlin Collections: Set and Map. Android with Kotlin: customize your app, CSS, HTML and Javascript
 - 📫 How to reach me: Find me and send me a message on LinkedIn: https://www.linkedin.com/in/sergiodjr
