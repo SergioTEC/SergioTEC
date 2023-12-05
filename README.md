@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web development and Android development.
 - 🌱 I’m currently learning:
 
-  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,css,html)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,js,css,html)](https://skillicons.dev)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiodjr)](https://www.linkedin.com/in/sergiodjr)
 
 <div disabled align="left">
