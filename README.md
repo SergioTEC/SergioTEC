@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @SergioTEC / Sérgio de Oliveira Júnior
 - 👀 I’m interested in Web development and Android development.
-- 🌱 I’m currently learning:
+- 🛠️ Technologies I work with:
 
   [![My Skills](https://skillicons.dev/icons?i=bootstrap,php,mysql,nodejs,js,css,html)](https://skillicons.dev)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiodjr)](https://www.linkedin.com/in/sergiodjr)
